@@ -1,9 +1,9 @@
 /* Style Settings */
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
 :root {
     --bgColor:#FFFFFF;
     --accentColor: #A6A6A6;
-    --font: 'Karla', sans-serif;
+    --font: 'Ubuntu';
 }
 
 body{
