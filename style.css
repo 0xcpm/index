@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
 :root {
     --bgColor:#FFFFFF;
-    --accentColor: #8E918F;
+    --accentColor: ##BCBCCE;
     --font: 'Ubuntu';
 }
 
@@ -19,7 +19,7 @@ body{
 }
 
 #userName{
-    color: #8E918F;
+    color: ##BCBCCE;
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
