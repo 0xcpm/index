@@ -3,7 +3,7 @@
 :root {
     --bgColor:#FFFFFF;
     --accentColor: #BEBECF;
-    --font: 'monospace', sans-serif;
+    --font: 'monospace';
 }
 
 body{
@@ -21,8 +21,7 @@ body{
 #userName{
     color: #BEBECF;
     font-size: 1rem;
-    font-weight: 600;
-    line-height: 1.25;
+    line-height: bold;
     display: block;
     font-family: var(--font);
     width: 100%;
